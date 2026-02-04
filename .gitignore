@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code
+.claude/settings.local.json
+
+# Ralph loop artifacts
+IMPLEMENTATION_PLAN.md
+PROMPT_plan.md
+PROMPT_build.md
+AGENTS.md
+loop.sh
+specs/
